@@ -1,0 +1,7 @@
+# local index / cache files - never commit ship data
+*.usx
+*.usx.*
+*.csv
+index.lock
+*.bak
+*.zip
